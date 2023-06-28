@@ -1,5 +1,5 @@
 x\y\yx
 detail vyrobku zde
 -----
-|   |
+| 00 |
 -----
